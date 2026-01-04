@@ -18,4 +18,4 @@
 18. Sánchez, O.; Quesada, M.; Dirzo, R.; Schlichting, C.D. A field experiment to determine the effect of dry-season irrigation on vegetative and reproductive traits in the wet-deciduous tree _Bonellia nervosa_. _J. Trop. Ecol._ 2020, 36, 29–35.
 19. Pleban, J.R.; Guadagno, C.R.; Mackay, D.S.; Weinig, C.; Ewers, B.E. Rapid chlorophyll a fluorescence light response curves mechanistically inform photosynthesis modeling. _Plant Physiol._ 2020, 183, 602–619.
 20. White, A.J.; Critchley, C. Rapid light curves: A new fluorescence method to assess the state of the photosynthetic apparatus. _Photosynth. Res._ 1999, 59, 63–72.
-21. Martin, L. J; Blossey, B; Ellis E. Mapping where ecologists work: biases in the global distribution of terrestrial ecological observations. Fronteirs in ecology and in the environment. 2012. DOI: https://doi.org/10.1890/110154
+21. Martin, L. J; Blossey, B; Ellis E. Mapping where ecologists work: biases in the global distribution of terrestrial ecological observations. _Fronteirs in ecology and in the environment_ 2012, 10, 195-201. 
