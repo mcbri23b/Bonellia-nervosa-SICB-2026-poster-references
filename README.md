@@ -1,6 +1,7 @@
-Albert, C.H.; Thuiller, W.; Yoccoz, N.G.; Douzet, R.; Aubert, S.; Lavorel, S. A multi-trait approach reveals the structure and the relative importance of intra- vs. interspecific variability in plant traits. _Funct. Ecol._ 2010, 24, 1192–1201. 
-Avalos, G. Specific leaf area (SLA) serves as a proxy to predict total carbon content in understory individuals of the neotropical canopy palm Socratea exorrhiza. _Trees_ 2023, 37, 1831–1840.
-Avalos, G.; Castillo, E.M.; Fernández, V.A.; Villalobos, E.Z.; Bermúdez, T.A. Population structure, light preferences, and late-wet season pre-dispersal fruit predation in _Bonellia nervosa_ (Primulaceae), a tropical dry forest understory tree with reverse phenology. Rev. Biol. Trop. 2025. 
+1. Albert, C.H.; Thuiller, W.; Yoccoz, N.G.; Douzet, R.; Aubert, S.; Lavorel, S. A multi-trait approach reveals the structure and the relative importance of intra- vs. interspecific variability in plant traits. _Funct. Ecol._ 2010, 24, 1192–1201.
+
+2. Avalos, G. Specific leaf area (SLA) serves as a proxy to predict total carbon content in understory individuals of the neotropical canopy palm Socratea exorrhiza. _Trees_ 2023, 37, 1831–1840.
+3. Avalos, G.; Castillo, E.M.; Fernández, V.A.; Villalobos, E.Z.; Bermúdez, T.A. Population structure, light preferences, and late-wet season pre-dispersal fruit predation in _Bonellia nervosa_ (Primulaceae), a tropical dry forest understory tree with reverse phenology. Rev. Biol. Trop. 2025. 
 Avalos, G.; Frazer, K.; Le Gall, H. Plant size influences specific leaf area in palms: A case for the diminishing returns hypothesis. _Oecologia_ 2025, 207, 56. 
 Chaves, Ó.M.; Avalos, G. Do seasonal changes in light availability influence the inverse leafing phenology of the neotropical dry forest understory shrub _Bonellia nervosa_ (Theophrastaceae)? _Rev. Biol. Trop._ 2008, 56, 257–268.
 Chaves, Ó.M.; Avalos, G. Is the inverse leafing phenology of the dry forest understory shrub _Jacquinia nervosa_ (Theophrastaceae) a strategy to escape herbivory? _Rev. Biol. Trop._ 2006, 54, 951–963. 
